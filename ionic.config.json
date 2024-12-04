@@ -1,0 +1,7 @@
+{
+  "name": "Balapan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
